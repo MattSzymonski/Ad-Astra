@@ -1,6 +1,7 @@
 # Ad Astra
-
-<img src="./StoreAssets/AdAstra_Logo.png" align="center" width="250" />
+<p align="center">
+  <img src="./StoreAssets/AdAstra_Logo.png" width="250" />
+</p>
 
 Small infinite runner Andriod video game made in Unity in 2016  
 (Not available on Google Play Store any more)  

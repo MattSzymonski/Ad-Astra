@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3cfe4840a96c74047afe73aafc49b5e7
+timeCreated: 1475184060
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - vignetteShader: {fileID: 4800000, guid: 48f3da8bb11469642b97ac865c70263b, type: 3}
+  - separableBlurShader: {fileID: 4800000, guid: f292c2f078c3a4f458162f39e7a3b035,
+      type: 3}
+  - chromAberrationShader: {fileID: 4800000, guid: e4ec893973662084dbaff01b19e05447,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

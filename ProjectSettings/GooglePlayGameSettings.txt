@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=30189299591
+proj.classDir=Assets
+proj.ConstantsClassName=AdAstra
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e30189299591%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.QuickBait.AdAstra%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_sputnik%22%3eCggIh8-wu3AQAhAA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_spaceman%22%3eCggIh8-wu3AQAhAC%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_moonwalker%22%3eCggIh8-wu3AQAhAE%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_alien%22%3eCggIh8-wu3AQAhAD%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_autopilot%22%3eCggIh8-wu3AQAhAF%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_poland_can_into_space%22%3eCggIh8-wu3AQAhAB%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_saturn%22%3eCggIh8-wu3AQAhAG%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_atlas%22%3eCggIh8-wu3AQAhAH%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_ares%22%3eCggIh8-wu3AQAhAI%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_apollo%22%3eCggIh8-wu3AQAhAJ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_tough_guy%22%3eCggIh8-wu3AQAhAK%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_score%22%3eCggIh8-wu3AQAhAL%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=30189299591-qdlq2oksu6v9sg2g39epf3ucqld55j06.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
+and.BundleId=com.QuickBait.AdAstra

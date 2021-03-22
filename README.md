@@ -24,6 +24,6 @@ Small infinite runner Andriod video game made in Unity in 2016
   <img src="./StoreAssets/6.png" width="200" />
 </p>
 
-## Video
+## Gameplay Video
 
 [![Watch the video](https://img.youtube.com/vi/B7OHLpFs_l8/maxresdefault.jpg)](https://www.youtube.com/watch?v=B7OHLpFs_l8)

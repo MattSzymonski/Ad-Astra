@@ -8,7 +8,7 @@
 <br/>
 <br/>
 Small infinite runner Andriod video game made in Unity in 2016  
-(Not available on Google Play Store any more)  
+(Not available on Google Play Store anymore)  
 
 ## Screenshots
 
